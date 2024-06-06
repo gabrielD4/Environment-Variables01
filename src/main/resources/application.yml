@@ -1,0 +1,5 @@
+server:
+  port: 4500
+CustomVarTree:
+  devName: Gabriel
+  authCode: xyz458
